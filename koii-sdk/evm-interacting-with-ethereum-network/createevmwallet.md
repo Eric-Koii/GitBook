@@ -1,0 +1,10 @@
+# createEvmWallet
+
+### Example Code
+
+```
+```
+
+### Example Code Output
+
+### Returns
